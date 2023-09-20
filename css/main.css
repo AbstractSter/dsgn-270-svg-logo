@@ -1,4 +1,6 @@
+/* SVG Logo */
 svg {
   display: block;
-  width: 20rem;
+  width: auto;
+  min-width: none;
 }
