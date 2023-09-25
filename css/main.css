@@ -1,6 +1,10 @@
 /* SVG Logo */
-svg {
+.svg {
   display: block;
   width: auto;
   min-width: none;
+}
+
+.handlebar {
+  stroke: aqua;
 }
